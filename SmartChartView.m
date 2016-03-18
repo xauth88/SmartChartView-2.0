@@ -3,7 +3,6 @@
 //  SmartChartView
 //
 //  Created by Tereshkin Sergey on 02/03/15.
-//  Copyright (c) 2015 App To You. All rights reserved.
 //
 
 #import "SmartChartView.h"
